@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600;1,700;1,800;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: Poppins, sans-serif;
+}
+
+.image{
+    background-image: url("https://i.pinimg.com/564x/e7/3a/23/e73a232026ff37d37693d00cb2fde94b.jpg");
+    background-size: cover;
+    background-position: center;
+}

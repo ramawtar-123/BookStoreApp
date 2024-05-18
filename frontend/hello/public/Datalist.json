@@ -1,0 +1,123 @@
+[
+   {
+    "id": 1,
+    "name": "Story Books",
+    "title":" lorem, ipsum dolor sit amet consectature",
+    "price": 110,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1715771592~exp=1715775192~hmac=3a52eeb238ffb0da44aaf5c457e8690bbf4107f8a1d038227ddca0b53fff4ad1&w=826"
+   },
+
+   {
+    "id": 2,
+    "name": "Study Books",
+    "title":" lorem, ipsum dolor sit amet consectature",
+    "price": 10,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1715771592~exp=1715775192~hmac=3a52eeb238ffb0da44aaf5c457e8690bbf4107f8a1d038227ddca0b53fff4ad1&w=826"
+   },
+
+   {
+    "id": 3,
+    "name": "Animal Books",
+    "title":" lorem, ipsum dolor sit amet consectature",
+    "price": 30,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1715771592~exp=1715775192~hmac=3a52eeb238ffb0da44aaf5c457e8690bbf4107f8a1d038227ddca0b53fff4ad1&w=826"
+   },
+
+   {
+    "id": 4,
+    "name": "Engineering Books",
+    "title":" lorem, ipsum dolor sit amet consectature",
+    "price": 40,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1715771592~exp=1715775192~hmac=3a52eeb238ffb0da44aaf5c457e8690bbf4107f8a1d038227ddca0b53fff4ad1&w=826"
+   },
+
+   {
+    "id": 5,
+    "name": "History Books",
+    "title":" lorem, ipsum dolor sit amet consectature",
+    "price": 50,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1715771592~exp=1715775192~hmac=3a52eeb238ffb0da44aaf5c457e8690bbf4107f8a1d038227ddca0b53fff4ad1&w=826"
+   },
+
+   {
+    "id": 6,
+    "name": "Geology Books",
+    "title":" lorem, ipsum dolor sit amet consectature",
+    "price": 60,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1715771592~exp=1715775192~hmac=3a52eeb238ffb0da44aaf5c457e8690bbf4107f8a1d038227ddca0b53fff4ad1&w=826"
+   },
+
+   {
+    "id": 7,
+    "name": "Singing Books",
+    "title":" lorem, ipsum dolor sit amet consectature",
+    "price": 70,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1715771592~exp=1715775192~hmac=3a52eeb238ffb0da44aaf5c457e8690bbf4107f8a1d038227ddca0b53fff4ad1&w=826"
+   },
+
+   {
+    "id": 8,
+    "name": "Fairy Books",
+    "title":" lorem, ipsum dolor sit amet consectature",
+    "price": 80,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1715771592~exp=1715775192~hmac=3a52eeb238ffb0da44aaf5c457e8690bbf4107f8a1d038227ddca0b53fff4ad1&w=826"
+   },
+
+
+   {
+      "id": 9,
+      "name": "Arts Books",
+      "title":" lorem, ipsum dolor sit amet consectature",
+      "price": 90,
+      "category": "Paid",
+      "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1715771592~exp=1715775192~hmac=3a52eeb238ffb0da44aaf5c457e8690bbf4107f8a1d038227ddca0b53fff4ad1&w=826"
+     },
+
+
+     {
+      "id": 10,
+      "name": "traditional Books",
+      "title":" lorem, ipsum dolor sit amet consectature",
+      "price": 110,
+      "category": "Paid",
+      "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1715771592~exp=1715775192~hmac=3a52eeb238ffb0da44aaf5c457e8690bbf4107f8a1d038227ddca0b53fff4ad1&w=826"
+     },
+
+
+     {
+      "id": 11,
+      "name": "Ghost Books",
+      "title":" lorem, ipsum dolor sit amet consectature",
+      "price": 80,
+      "category": "Paid",
+      "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1715771592~exp=1715775192~hmac=3a52eeb238ffb0da44aaf5c457e8690bbf4107f8a1d038227ddca0b53fff4ad1&w=826"
+     },
+
+     {
+      "id": 12,
+      "name": "Electronics Books",
+      "title":" lorem, ipsum dolor sit amet consectature",
+      "price": 130,
+      "category": "Paid",
+      "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1715771592~exp=1715775192~hmac=3a52eeb238ffb0da44aaf5c457e8690bbf4107f8a1d038227ddca0b53fff4ad1&w=826"
+     },
+
+
+     {
+      "id": 13,
+      "name": "News Books",
+      "title":" lorem, ipsum dolor sit amet consectature",
+      "price": 230,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1715771592~exp=1715775192~hmac=3a52eeb238ffb0da44aaf5c457e8690bbf4107f8a1d038227ddca0b53fff4ad1&w=826"
+     }
+
+]
